@@ -1,5 +1,5 @@
 This file is created by Aryan ///Khandhadiya himself.git 
-#git add is used to add file to staging area
+#git add is used to add file to staging area or you can add all file git add .
 git status 
 git log 
 git init -b main creates main branch.
