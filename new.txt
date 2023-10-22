@@ -5,4 +5,7 @@ git remote -v to check to which it is connected
 git tag to check tag till now
 git tag -a "ver num" -m "message"
 git show verno -- show s data
-
+git log --pretty=oneline
+git checkout -b branch name  to create branch
+or you can use switch 
+git branch to check how many branches are there
