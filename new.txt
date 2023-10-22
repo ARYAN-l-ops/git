@@ -1,3 +1,8 @@
 for generating a ssh key use ssh-keygen --o
 git push origin pushes the data to git
 git clone and https to clone
+git remote -v to check to which it is connected
+git tag to check tag till now
+git tag -a "ver num" -m "message"
+git show verno -- show s data
+
